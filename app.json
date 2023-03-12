@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "medicalai",
+    "slug": "medicalai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./Assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./Assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./Assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./Assets/favicon.png"
+    }
+  }
+}
